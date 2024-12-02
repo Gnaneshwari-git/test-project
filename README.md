@@ -4,3 +4,6 @@ Gnaneshwari
 Chethana
 Archana
 Anisa
+git class 
+git init
+git config
